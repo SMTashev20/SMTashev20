@@ -5,7 +5,6 @@ I am student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. I am curre
 ## My social medias
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/stanislav-tashev-940262211/)
-- 🕴🏻  [Facebook](https://www.facebook.com/profile.php?id=100005637706449)
 - 🐦 [Twitter](https://twitter.com/Stanisl13460135)
 - 🎈 [Instagram](https://www.instagram.com/stashev80/)
 
