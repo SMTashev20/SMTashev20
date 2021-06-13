@@ -10,13 +10,12 @@ I am student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. I am curre
 - 🐦 [Twitter](https://twitter.com/Stanisl13460135)
 - 🎈 [Instagram](https://www.instagram.com/stashev80/)
 
+## Technologies which I can use
 <code><img height="27" src="https://pbs.twimg.com/media/D1oRoQ0WsAA036b.png" alt="cpp"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="git"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" alt="html"></code>
 <code><img height="27" src="https://user-images.githubusercontent.com/63719283/116717419-8809a000-a9e1-11eb-8e3c-148c4456be99.png" alt="css"></code>
 
-<br>
-<br>
 <br>
 
 <details>	
