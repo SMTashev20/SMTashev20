@@ -2,8 +2,6 @@
 
 I am student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. I am currently studying C++, HTML 5 & CSS 3 👨🏻‍🏫.
 
-<img align="right" width="400" alt="cat" src="https://www.moneyunder30.com/wp-content/uploads/2021/05/nyan-cat.gif" />
-
 ## My social medias
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/stanislav-tashev-940262211/)
