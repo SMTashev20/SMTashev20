@@ -2,6 +2,8 @@
 
 I am student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. I am currently studying C++, HTML 5 & CSS 3 👨🏻‍🏫.
 
+<img align="right" alt="" src="https://media.tenor.com/images/6d4b64738cccdd4c315f7ae39658401a/tenor.gif" />
+
 ## My social medias
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/stanislav-tashev-940262211/)
