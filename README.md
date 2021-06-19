@@ -9,7 +9,6 @@ I am student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. I am curre
 - 💼 [LinkedIn](https://www.linkedin.com/in/stanislav-tashev-940262211/)
 - 🐦 [Twitter](https://twitter.com/Stanisl13460135)
 - 🎈 [Instagram](https://www.instagram.com/stashev80/)
-- 🏢 [Office 365](https://eur.delve.office.com/?u=5fab2db7-8ca4-466b-8a13-87edbb72a410&v=work)
 
 ## Technologies which I can use
 <code><img height="27" src="https://pbs.twimg.com/media/D1oRoQ0WsAA036b.png" alt="cpp"></code>
