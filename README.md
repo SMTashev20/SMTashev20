@@ -29,5 +29,6 @@ I am student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. I am curre
 <details>
   <summary><b>🐠💀 Repositories</b></summary>
 
-[![Earthlings](https://github-readme-stats.vercel.app/api/pin/?username=smtashev20&repo=Green_Project_&theme=tokyonight)](https://github.com/SMTashev20/Green_Project_)
+[![Earthlings](https://github-readme-stats.vercel.app/api/pin/?username=smtashev20&repo=green_project_&theme=tokyonight)](https://github.com/SMTashev20/green_project_)
+[![Gravitators](https://github-readme-stats.vercel.app/api/pin/?username=smtashev20&repo=gravitators&theme=tokyonight)](https://github.com/SMTashev20/gravitators)
 </details>
