@@ -33,4 +33,15 @@ I am student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. I am curre
 
 [![Earthlings](https://github-readme-stats.vercel.app/api/pin/?username=smtashev20&repo=green_project_&theme=tokyonight)](https://github.com/SMTashev20/green_project_)
 [![Gravitators](https://github-readme-stats.vercel.app/api/pin/?username=smtashev20&repo=gravitators&theme=tokyonight)](https://github.com/SMTashev20/gravitators)
+[![Litho-Prae](https://github-readme-stats.vercel.app/api/pin/?username=snkolev18&repo=litho-prae&theme=tokyonight)](https://github.com/SMTashev20/gravitators)
+</details>
+
+<details>	
+  <summary><b>Credly badges</b></summary>
+<a href ="https://www.credly.com/badges/07172260-ff66-4c18-99a4-4b7badc29c57/public_url"> <img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
+ <a href ="https://www.credly.com/badges/34eaf23e-1ed5-450a-928f-fc39d8e4e87c/public_url"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
+  <a href ="https://www.credly.com/badges/7104adf4-d0c9-4ccc-8b6b-a365a855b820/public_url"><img align="left" alt="Word Office 2016" width="200px" src="https://media.discordapp.net/attachments/932938237062828065/946328169231839292/microsoft-powerpoint-office-2016_1.png" ></a>
+  <a href ="https://www.credly.com/badges/4ec1e994-df57-489f-9d97-7c83734c82b6/public_url"><img align="left" alt="Word Office 2016" width="200px" src="https://media.discordapp.net/attachments/932938237062828065/946328508848824330/ocean-science-explorer.png" ></a>
+   <a href ="https://www.credly.com/badges/a836e896-6f8d-40e1-91e8-f463a2e1b475/public_url"><img align="left" alt="Word Office 2016" width="200px" src="https://media.discordapp.net/attachments/932938237062828065/946328659533381632/introduction-to-iot.png" ></a>
+
 </details>
